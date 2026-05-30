@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databaseverify",
+        "uuid": 2450656,
+        "checksum": "axtxzk"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
